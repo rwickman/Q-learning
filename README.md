@@ -1,2 +1,2 @@
 ﻿# Q-learning
-An implementation Q-learning in Unity as it is specified in *Machine Learning* by Tom Mitchell.
+An implementation of Q-learning in Unity as it is specified in the book *Machine Learning* by Tom Mitchell.
